@@ -1,0 +1,1013 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "womanNode",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 60,
+  "speed": 0.6667,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "hall_woman1_1/hall_woman5_6/hall_woman2_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                112.66,
+                98.3963
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                112.6641,
+                98.3949
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                112.6641,
+                98.3963
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": [
+                112.6622,
+                98.3962
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1.75,
+              "value": [
+                112.66,
+                98.3963
+              ],
+              "curve": "sineIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1.75,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1.75,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -2.9629
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0.0323
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": 1.1108
+            },
+            {
+              "frame": 1.75,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "3104211a-03a9-45c3-95cc-16b22d48ea63"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "hall_woman1_1/hall_woman5_6/hall_woman4_5/hall_woman3_4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                81.5693,
+                -139.1705
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                81.5688,
+                -139.1695
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": [
+                81.5693,
+                -139.1705
+              ],
+              "curve": "sineIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "anchorX": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 0,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 0,
+              "curve": "sineIn"
+            }
+          ],
+          "anchorY": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -6.9041
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "1af7a3f2-72fe-41a6-88b5-a168bb819c18"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "hall_woman1_1/hall_woman5_6/hall_woman4_5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                60.744,
+                196.7617
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                60.7458,
+                196.76129999999998
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": [
+                60.744,
+                196.7617
+              ],
+              "curve": "sineIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "anchorX": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 0,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 0,
+              "curve": "sineIn"
+            }
+          ],
+          "anchorY": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1,
+              "value": 8.1852
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "150fee21-c1ef-4129-bfd7-72aeacceab62"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "hall_woman1_1/hall_woman5_6": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -31.4983,
+                8.107399999999984
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                -32.51849999999999,
+                7.090700000000027
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": [
+                -31.4983,
+                8.107399999999984
+              ],
+              "curve": "sineIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "anchorX": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 0,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 0,
+              "curve": "sineIn"
+            }
+          ],
+          "anchorY": [
+            {
+              "frame": 0,
+              "value": 0.2287,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 0.2287,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 0.2287,
+              "curve": "sineIn"
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -2
+            },
+            {
+              "frame": 1,
+              "value": 0.7912
+            },
+            {
+              "frame": 2,
+              "value": -2
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "35445e1b-eff9-41e6-96a6-5c6e54520f84"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "hall_woman1_1/hall_woman6_7": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -102.9856,
+                86.09990000000005
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                -102.988,
+                86.09559999999999
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": [
+                -102.9856,
+                86.09990000000005
+              ],
+              "curve": "sineIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1.0278,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1.025,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0.5851
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "59ff01cf-2b38-46fe-9796-3dd128c3499c"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "hall_woman1_1/hall_woman7_8": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -159.166,
+                -6.693899999999985
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                -159.1655,
+                -6.69380000000001
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": [
+                -159.166,
+                -6.693899999999985
+              ],
+              "curve": "sineIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -9.9757
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "5629633c-82a4-4cb5-a9de-1a2af7dd797d"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "hall_woman1_1/hall_woman8_9": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -1.293299999999988,
+                125.08209999999997
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                -1.3109000000000037,
+                122.02890000000002
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": [
+                -1.293299999999988,
+                125.08209999999997
+              ],
+              "curve": "sineIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1.04,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1.04,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "3d6555ab-b544-43d6-9f7c-9c79b37b4fa4"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "hall_woman1_1/hall_woman9_10": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -66.63310000000001,
+                431.59900000000005
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                -66.63300000000001,
+                431.5997
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": [
+                -66.63310000000001,
+                431.59900000000005
+              ],
+              "curve": "sineIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 0.9254,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -0.9748
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "20298501-2e69-43d8-9ba9-a24b2bd06814"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "hall_woman1_1/hall_woman10_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                2.7053000000000225,
+                351.4942
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                0.6700000000000159,
+                353.5298
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": [
+                2.7053000000000225,
+                351.4942
+              ],
+              "curve": "sineIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1.0783,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 3.1981
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "49043e84-6f0e-49ea-9a04-c28b648a61bc"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "hall_woman1_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -0.0002,
+                0
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": [
+                0.0003,
+                -10
+              ],
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": [
+                0.0003,
+                0
+              ],
+              "curve": "sineIn"
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 1,
+              "value": 1,
+              "curve": "sineIn"
+            },
+            {
+              "frame": 2,
+              "value": 1,
+              "curve": "sineIn"
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "24080ee8-14db-425c-b3cf-fd865017934e"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

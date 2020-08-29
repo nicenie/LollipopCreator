@@ -1,0 +1,84 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "btn_yuleNode",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "hall_btn_majiang2/hall_btn_majiang2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                47.1074,
+                52.8715
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                47.1075,
+                62.87180000000001
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                47.1074,
+                52.8715
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 1.01
+            },
+            {
+              "frame": 1,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 1.01
+            },
+            {
+              "frame": 1,
+              "value": 1
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

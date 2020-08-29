@@ -1,0 +1,84 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "btn_julebuNode",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "hall_btn_di_1/hall_btn_julebu1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                4.75,
+                91.9999
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                4.750399999999999,
+                101.9999
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                4.750300000000003,
+                91.9999
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 1.02
+            },
+            {
+              "frame": 1,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 1.02
+            },
+            {
+              "frame": 1,
+              "value": 1
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

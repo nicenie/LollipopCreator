@@ -1,0 +1,41 @@
+{
+  "appKey": "1051CCFD-68AE-5788-931F-29099808E7C1",
+  "appSecret": "7d254717d0b762df664e20c5a249bf1e",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": true,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "http://120.25.80.44:7600/",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.baiyinMJ",
+  "privateKey": "8E4EC07226757A041DAC135B790CE8CD",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "5fb3f9a2-ad56-4807-a0dd-fc37f47f61dc",
+  "title": "baiyinMJ",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "7021b20a-4b12-46",
+  "zipCompressJs": true
+}

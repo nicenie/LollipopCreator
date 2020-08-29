@@ -1,0 +1,24 @@
+info face="微软雅黑" size=40 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=40 base=26 scaleW=378 scaleH=336 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="hall_lc.png"
+chars count=20
+char id=48   x=258    y=168     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=49   x=258    y=84     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=50   x=318    y=0     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=51   x=318    y=84     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=52   x=318    y=168     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=53   x=0    y=252     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=54   x=60    y=252     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=55   x=120    y=252     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=56   x=180    y=252     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=57   x=258    y=0     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=46   x=240    y=252     width=60    height=84    xoffset=0     yoffset=0     xadvance=60    page=0  chnl=15
+char id=20013   x=86    y=0     width=86    height=84    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15
+char id=20934   x=0    y=84     width=86    height=84    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15
+char id=21305   x=86    y=84     width=86    height=84    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15
+char id=22312   x=172    y=0     width=86    height=84    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15
+char id=22791   x=172    y=84     width=86    height=84    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15
+char id=27491   x=0    y=168     width=86    height=84    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15
+char id=31639   x=86    y=168     width=86    height=84    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15
+char id=32467   x=172    y=168     width=86    height=84    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15
+char id=37197   x=0    y=0     width=86    height=84    xoffset=0     yoffset=0     xadvance=86    page=0  chnl=15

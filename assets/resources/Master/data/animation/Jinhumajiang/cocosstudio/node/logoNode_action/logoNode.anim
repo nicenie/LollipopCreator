@@ -1,0 +1,380 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "logoNode",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 60,
+  "speed": 0.6667,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "login_guangquan_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -0.3088,
+                -0.1639
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -0.3091,
+                -0.1646
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -0.3088,
+                -0.1639
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.0597
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.0597
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "login_deng_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                2.236,
+                -351.2885
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                2.2358,
+                -351.2885
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                2.236,
+                -351.2885
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1.0092
+            },
+            {
+              "frame": 1,
+              "value": 1.0231
+            },
+            {
+              "frame": 2,
+              "value": 1.0092
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1.0092
+            },
+            {
+              "frame": 1,
+              "value": 1.0231
+            },
+            {
+              "frame": 2,
+              "value": 1.0092
+            }
+          ],
+          "anchorX": [
+            {
+              "frame": 0,
+              "value": 0.5
+            },
+            {
+              "frame": 1,
+              "value": 0.5
+            },
+            {
+              "frame": 2,
+              "value": 0.5
+            }
+          ],
+          "anchorY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "login_mj1_5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -44.2518,
+                -77.1596
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -41.4033,
+                -62.9164
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -44.2518,
+                -77.1596
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "login_jinhu_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -50.3184,
+                124.9447
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -50.3184,
+                127.7921
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -50.3184,
+                124.9447
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.0168
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.0168
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "login_majiang_4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                6.2739,
+                -52.9086
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                9.1228,
+                -67.152
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                6.2739,
+                -52.9086
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.0536
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.0583
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
