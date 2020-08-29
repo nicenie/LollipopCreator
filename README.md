@@ -51,7 +51,7 @@ Golang语言社区
 │   ├── Manager       # 常用管理器：UIManager，AudioManager，CollectManager，SceneManager，TipManager等
 │   └── NativeLib     # 本地化库
 ├── resources        
-│   └── Base          # 错误统一格式管理模块，全局错误码定义
+│   └── Base          
 │   │   ├── data      # 头像信息
 │   │   └── scripts   # 主场景管理
 │   └── Master       
